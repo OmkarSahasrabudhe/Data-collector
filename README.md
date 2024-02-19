@@ -1,1 +1,1 @@
-# GenBot-App
+# GenBot-Py
